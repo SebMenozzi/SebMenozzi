@@ -1,5 +1,9 @@
 ## Hi I'm Seb 👋🏻
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="11174184678 Spotify Playing" width="350" />](https://open.spotify.com/user/11174184678)
+
 ### Connect with me:
 
 [<img align="left" alt="SebMenozzi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
